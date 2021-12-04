@@ -1,0 +1,51 @@
+{
+	"callId": "ff13e84c52324edfb25bb474d3906d2d",
+	"errorCode": 0,
+	"apiVersion": 2,
+	"statusCode": 200,
+	"statusReason": "OK",
+	"time": "2021-11-10T08:24:40.128Z",
+	"registeredTimestamp": 1625767071000,
+	"UID": "f26a6a9cf2424f829ed54cd2f0dd5996",
+	"UIDSignature": "lVcfdzI9zyn7u75lDcH9odtuwMg=",
+	"signatureTimestamp": "1636532680",
+	"created": "2021-07-08T17:57:51.203Z",
+	"createdTimestamp": 1625767071000,
+	"data": {
+		"phoneCountryCode": "44",
+		"mobileNumber": "7788123456",
+		"mobileApp": {
+			"lastMobileAppLogin": "2021-11-10T08:27:08.887Z",
+			"mobileAppUserStatus": "active"
+		},
+		"account": [{
+			"number": "1100000976",
+			"role": "primary",
+			"isValidated": true,
+			"name": "QA_CR_AP05_0476_Enfield",
+			"lastSelected": true,
+			"createdDateTime": "2021-07-08T17:58:06.5259348Z",
+			"status": "active"
+		}]
+	},
+	"isActive": true,
+	"isRegistered": true,
+	"isVerified": true,
+	"lastLogin": "2021-11-10T08:24:34.564Z",
+	"lastLoginTimestamp": 1636532674000,
+	"lastUpdated": "2021-11-10T08:24:37.759Z",
+	"lastUpdatedTimestamp": 1636532677759,
+	"loginProvider": "site",
+	"oldestDataUpdated": "2021-07-08T17:57:51.203Z",
+	"oldestDataUpdatedTimestamp": 1625767071203,
+	"profile": {
+		"firstName": "APPA Enfield 05",
+		"lastName": "Credit Account",
+		"email": "qa_cr_ap05_0476_enfield@mailsac.com"
+	},
+	"registered": "2021-07-08T17:57:51.307Z",
+	"socialProviders": "site",
+	"verified": "2021-07-09T09:22:05.050Z",
+	"verifiedTimestamp": 1625822525050,
+	"id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IlJFUTBNVVE1TjBOQ1JUSkVNemszTTBVMVJrTkRRMFUwUTBNMVJFRkJSamhETWpkRU5VRkJRZyIsImRjIjoiZXUxIn0.eyJpc3MiOiJodHRwczovL2ZpZG0uZ2lneWEuY29tL2p3dC8zX2FOVV9nYWtCM2ZDd3Z3Z296ckdzdE9fN1NJOS1DTV9kalB6cWxXTnFPbWtudFlYd0VQVlc5SW94MGdONDhhelEvIiwic3ViIjoiZjI2YTZhOWNmMjQyNGY4MjllZDU0Y2QyZjBkZDU5OTYiLCJpYXQiOjE2MzY1MzI2ODAsImV4cCI6MTYzNjUzMjc0MCwiaXNMb2dnZWRJbiI6dHJ1ZX0.GI12QDuQX3MRbuVrzUtfDG_-wmcad9zbz7s5Cz68PzU5-Mq2yjDfCjcNRy8noXddwy2oOosylDKAQ5G3HjzlNa2CoUbDAqEVt708c9eV9OgB_MQ--U4LJ4DXYYlsFOTN3c0hAImWecwBeGonzfgqMdD12-mRp9oXI-n9AORAmcJDCqwZXuaBLNzXpOdVPyRfNT6Q0USJvVJMLvqM59KtGJifjM4xbfe-cMK5j5aKTwqxjM30tg3FHDUTzh7jF2pLRWCJuDYWBPx00PWqBqRImSn3eKG7XJ9Qt-oi4o5a_S-1zfmplpBA5B1fbRCt0gMi0qabbfcxfZfiNqSm45E-dg"
+}
