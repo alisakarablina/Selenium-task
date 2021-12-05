@@ -25,7 +25,7 @@ public class BringItOn {
 
             //Opening pastebin.com
             driver = new ChromeDriver();
-            driver.get("https://cloud.google.com");
+            driver.get("https://pastebin.com/");
 
             //Entering text into "New Paste" field
             WebElement textInputNewPaste = driver.findElement(By.id("postform-text"));
